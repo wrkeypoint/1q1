@@ -7,5 +7,6 @@ public class a {
         System.out.println("hotfix");
         System.out.println("hotfix1");
         System.out.println("push test");
+         System.out.println("pulltest");
     }
 }
